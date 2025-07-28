@@ -32,7 +32,7 @@ Este repositório documenta minha experiência prática com o **Azure Speech Stu
 - Experimentei a tradução automática por voz entre idiomas.
 
 **Capturas de Tela:**
-![Configuração Speech Studio](images/speech-studio-config.png)
+![Transcrição em tempo real](images/transcricao.png)
 
 ### 💬 Language Studio
 - Realizei análise de sentimentos de textos curtos e longos.
