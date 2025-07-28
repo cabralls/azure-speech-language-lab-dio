@@ -35,12 +35,10 @@ Este repositório documenta minha experiência prática com o **Azure Speech Stu
 ![Transcrição em tempo real](images/transcricao.png)
 
 ### 💬 Language Studio
-- Realizei análise de sentimentos de textos curtos e longos.
-- Modelei uma análise de entidades nomeadas (NER).
-- Experimentei análise de intenção com linguagem natural.
+- Infelizmente nessa oarte acabou dando erro.
 
 **Capturas de Tela:**
-![Análise de Sentimento](images/language-studio-analyze.png)
+![Análise de Sentimento](images/analise.png)
 
 ---
 
@@ -67,4 +65,4 @@ Este repositório documenta minha experiência prática com o **Azure Speech Stu
 
 ---
 
-## 🚀 Desafio entregue com sucesso! 😄
+## 🚀 Desafio entregue.
